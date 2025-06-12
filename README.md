@@ -1,5 +1,6 @@
 # Texas-Hold-em-Poker-Source-Code
-德州扑克源码，德州游戏源代码码，德扑圈源码，微扑克源码，德州联盟，德州扑克俱乐部，德州私人局，德州散人桌，朋友局游戏，产品精美代码质量靠谱。内有SNG，MTT，经典德州，大菠萝，短牌，奥马哈八种德州玩法，可以语音聊天，也有视频房，语音聊天；TG：@alibabama401或邮箱：ttpoker40@gmail.com
+德州扑克源码，德州游戏源代码码，德扑圈源码，微扑克源码，德州联盟，德州扑克俱乐部，德州私人局，德州散人桌，朋友局游戏，产品精美代码质量靠谱。内有SNG，MTT，经典德州，大菠萝，短牌，奥马哈八种德州玩法，可以语音聊天，也有视频房，语音聊天；TG：@alibabama401或邮箱：ttpoker40@gmail.com；
+如果你的银子买不起全套，也可以单独出售客户端或服务器的源码以便学习参考；
 ![牌桌1-9人](https://github.com/user-attachments/assets/8d5ec734-964c-49fc-876d-02005b812f68)
 ![牌桌1-6人](https://github.com/user-attachments/assets/f0c8b92e-bf43-47a1-ba7b-a97b269630db)
 ![牌桌1-2人](https://github.com/user-attachments/assets/c61f34e9-eb7e-48d4-a683-038f0a07e642)
