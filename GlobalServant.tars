@@ -1,0 +1,24 @@
+#include "/home/tarsproto/XGame/Comm/JFGame.tars"
+#include "GlobalProto.tars"
+
+/***
+* 公共服务接口
+*/
+module global
+{
+    interface GlobalServant
+    {
+        // HTTP请求处理接口
+        int doRequest(vector<byte> reqBuf, map<string, string> extraInfo, out vector<byte> rspBuf);
+
+        // TCP请求处理接口
+        int onRequest(long lUin, string sMsgPack, string sCurServrantAddr, JFGame::TClientParam stClientParam, JFGame::UserBaseInfoExt stUserBaseInfo);
+
+        // 后台创建消息
+        int createMessage(global::CreateMessageReq req, out global::CreateMessageResp resp);
+
+        // 后台处理问题
+        int processQuest(global::ProcessQuestReq req, out global::ProcessQuestResp resp);
+
+    };
+}; 
